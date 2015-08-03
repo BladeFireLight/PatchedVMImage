@@ -1,2 +1,2 @@
 # PatchedVMImage
-Automaticaly VHDX and WIM fully patched each month
+Automaticaly create a fully patched VHDX and WIM and keep them updated
